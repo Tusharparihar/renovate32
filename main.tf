@@ -3,7 +3,7 @@ provider "azurerm" {
 }
 
 provider "random" {
-  version = "3.5.0"
+  version = "3.7.2"
 }
 
 provider "null" {
